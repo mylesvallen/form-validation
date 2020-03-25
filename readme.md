@@ -14,12 +14,7 @@ Simple client side form validation. Check requird, length, email and password ma
 ![alt text](https://github.com/mylesvallen/form-validation/blob/master/code.png)
 
 
+Exercise core fundamental with vanilla javaScript to build simple and dynamic applications
 
 
-
-
-# form-validation
-Vanilla JS to create a form validation 
-
-
-20apps 20Days DevChallenge #20n20challenge
+20apps20Days | WebDevChallenge | Front-End | Client-Side
