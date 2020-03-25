@@ -11,7 +11,8 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
-![alt text](https://ibb.co/brdL08T)
+![alt text]()
+
 
 
 
