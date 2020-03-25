@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 :root {
     --success-color: #2ecc71;
     --error-color: #e74c3c;
@@ -10,7 +10,7 @@
 
 body {
     background-color: #f9fafb;
-    font-family: 'Roboto', san-serif;
+    font-family: "Roboto", san-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
