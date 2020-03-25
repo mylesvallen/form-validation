@@ -1,4 +1,4 @@
-## Form Validator (Intro Project)
+## Form Validator 20apps20Days Challenge
 
 Simple client side form validation. Check requird, length, email and password match
 
@@ -10,3 +10,7 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
+
+
+# form-validation
+Vanilla JS to create a form validation 
