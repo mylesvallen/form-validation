@@ -11,6 +11,9 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
+![alt text](https://github.com/mylesvallen/form-validation/blob/master/form-validation-screenshot.png)
+
+
 ![alt text](https://github.com/mylesvallen/form-validation/blob/master/code.png)
 
 Exercise core fundamental with vanilla javaScript to build simple and dynamic applications
